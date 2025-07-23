@@ -1,1 +1,3 @@
-Databases project in SQL for undergraduate course Databases in Electrical % Computer Engineering, Aristotle University of Thessaloniki, February 2025
+Databases project in SQL for undergraduate course Databases of Electrical & Computer Engineering, Aristotle University of Thessaloniki, as taught in February 2025
+
+Includes creating a transport database
